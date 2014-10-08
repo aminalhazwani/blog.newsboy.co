@@ -1,0 +1,17 @@
+# Site settings
+title: The future of news
+email: amin.alhazwani@me.com
+author: Amin Al Hazwani
+description: "What happens if we treat journalism as a design problem?"
+baseurl: ""
+url: "http://thesis.aminalhazwani.com"
+google_analytics:
+animated: false
+show_related_posts: false
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+paginate: 100
+sass:
+  compressed: true
