@@ -2,10 +2,10 @@
 layout:     post
 title:      "What happens if you put a roof over a story: that's Syria Deeply"
 date:       2014-10-10
-summary:    Crowdfounded newspaper, Syria Deeply, single subject news model, media analysis, blog as a public sphere.
+summary:    "Syria Deeply is an independent digital media project led by journalists and technologists that explores a new model of storytelling around a global crisis. At re:publica 2014 Lara Setrakian shows how they made it."
 ---
 
-Today I watched the talk of Lara at [re:publica 2014](http://re-publica.de/en/14). She is one of the founder of [Syria Deeply](http://www.syriadeeply.org/).
+Today I watched the talk of Lara Setrakian at [re:publica 2014](http://re-publica.de/en/14). She is one of the founder of [Syria Deeply](http://www.syriadeeply.org/).
 
 Syria Deeply is – in the words from their website – an independent digital media project led by journalists and technologists that explores a new model of storytelling around a global crisis. 
 
