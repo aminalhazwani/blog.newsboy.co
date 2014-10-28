@@ -13,6 +13,11 @@ img {
   max-width: 100%;
 }
 
+iframe {
+  max-width: 100%;
+  margin-bottom: 1.3em;
+}
+
 .site-wrap {
   min-height: 100%;
   margin-bottom: -120px;
@@ -238,20 +243,15 @@ h1,
 h2,
 .h2,
 h3,
-.h3 {
-  font-family: "franklin-gothic-urw", serif;
-  font-weight: 700;
-}
-
+.h3,
 h4,
 .h4,
 h5,
 .h5,
 h6,
 .h6 {
-  font-family: "franklin-gothic-urw" sans-serif;
+  font-family: "franklin-gothic-urw", serif;
   font-weight: 700;
-  margin-bottom: 0;
 }
 
 .social-icons {
@@ -382,6 +382,12 @@ footer .wrap {
 footer:after {
   content: "";
   display: block;
+}
+
+.footnotes {
+  ol > li > p {
+    margin-bottom: 0;
+  }
 }
 
 @charset "UTF-8";
