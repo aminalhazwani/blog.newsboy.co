@@ -20,6 +20,11 @@ https://medium.com/de-correspondent/why-we-see-journalists-as-conversation-leade
 https://vimeo.com/103343392
 
 
+#### Media-funding projects
+
+http://journalismgrants.org/
+
+
 #### Newsgames
 http://www.youtube.com/watch?v=lBHp5y-Idyk
 
@@ -39,8 +44,15 @@ http://newsgameshack.thegoodevil.com/#
 
 http://newsgames-hackathon.tumblr.com/
 
+http://riotsimulator.org/
+
+http://www.creativeapplications.net/games/riot-game-that-tells-the-story-of-conflict-and-social-unrest/
+
 
 #### Worth to mention projects
 http://www.syriadeeply.org/
 
 http://www.newsdeeply.com/
+
+#### Extra
+http://blog.visual.ly/micro-content-the-best-way-to-diversify-your-content-strategy/
