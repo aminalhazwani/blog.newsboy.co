@@ -5,24 +5,25 @@ permalink: /resources/
 ---
 
 #### Crowdfunded newspapers
-https://decorrespondent.nl/en
+[DeCorrespondent](https://decorrespondent.nl/en)
+De Correspondent is a Dutch-language, online journalism platform that focuses on background, analysis, investigative reporting, and the kinds of stories that tend to escape the radar of mainstream media because they do not conform to what is normally understood to be 'news'.
 
-https://medium.com/de-correspondent/how-we-turned-a-world-record-in-journalism-crowd-funding-into-an-actual-publication-2a06e298afe1
+[How we turned a world record in journalism crowd-funding into an actual publication](https://medium.com/de-correspondent/how-we-turned-a-world-record-in-journalism-crowd-funding-into-an-actual-publication-2a06e298afe1).
 
-https://medium.com/on-blendle/the-dutch-revolution-in-journalism-all-newspapers-behind-one-paydike-a2031594e430
+[Why we see journalists as conversation leaders and readers as expert contributors](https://medium.com/on-blendle/today-our-journalistic-startup-got-backed-by-the-new-york-times-and-axel-springer-8857c70832e4). Every reader is an expert at something.
 
-https://medium.com/on-blendle/today-our-journalistic-startup-got-backed-by-the-new-york-times-and-axel-springer-8857c70832e4
+<hr>
 
-https://krautreporter.de/
+[The Dutch revolution in journalism: all newspapers behind one paydike](https://medium.com/on-blendle/the-dutch-revolution-in-journalism-all-newspapers-behind-one-paydike-a2031594e430). The nicest paywall in the world comes from Holland.
 
-https://medium.com/de-correspondent/why-we-see-journalists-as-conversation-leaders-and-readers-as-expert-contributors-8c234ff5bc53
+<hr>
 
-https://vimeo.com/103343392
+[Krautreporter](https://krautreporter.de/)
 
 
 #### Media-funding projects
 
-http://journalismgrants.org/
+[Journalism Grants](http://journalismgrants.org/). At a time when many media organisations face financial constraints, the grant programme aims to better enable media houses to go beyond their usual reporting approaches and thus set a new and distinctive agenda for development coverage.
 
 
 #### Newsgames
@@ -30,7 +31,7 @@ http://www.youtube.com/watch?v=lBHp5y-Idyk
 
 http://newsgameshack.tumblr.com/
 
-http://gamethenews.net/
+[Game the news](http://gamethenews.net/). 
 
 http://thegoodevil.com/
 
@@ -56,3 +57,6 @@ http://www.newsdeeply.com/
 
 #### Extra
 http://blog.visual.ly/micro-content-the-best-way-to-diversify-your-content-strategy/
+
+#### People
+[Dafna Shahaf](http://i.stanford.edu/~dshahaf/). Best known for her award-winning paper "Connecting the Dots Between News Articles". Now she is working on Information Cartography and Metro Maps in order to fight information overload.
