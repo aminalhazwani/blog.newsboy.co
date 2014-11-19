@@ -5,6 +5,10 @@ date:       2014-10-27
 summary:    How social media influences journalism? An interesting article from the NYT shows how Facebook has radically changed the way we consume news. Two reports from the Pew Research Center show how the engagment changes depanding on our source. Are we reading from a social network, from a search query or are we directly visiting the publisher website?  
 ---
 
+Today I've read some interesting articleas about the influence of social media and social networks on news and journalism. The first article is from the New York Times and it shows in specific the influence of Facebook on media. The last two articles are from the Pew Research Center. They analyze more statistically speaking what happens if we arrive to an article from a social network, from a search query or if we directly access the newspaper website.
+
+I attach here below some interesting statements from the articles. 
+
 #### How facebook is changing the way its users consume journalism
 → [New York Times](http://www.nytimes.com/2014/10/27/business/media/how-facebook-is-changing-the-way-its-users-consume-journalism.html?smid=fb-nytimes&smtyp=cur&bicmp=AD&bicmlukp=WT.mc_id&bicmst=1409232722000&bicmet=1419773522000&_r=0)
 
@@ -14,7 +18,7 @@ Just as the music industry has moved largely from selling albums to songs bought
 
 Facebook officials say that the more time users spend at its site, the more likely there will be a robust exchange of diverse viewpoints and ideas shared online.
 
-Ben Smith, editor in chief of BuzzFeed, a news and entertainment site, said his rule for writing and reporting in a fragmented age is simple: **“no filler.”** News organizations that still publish a print edition, he said, have slots — physical holes on paper or virtual ones on a home page — that result in the publication of stories that are not necessarily the most interesting or timely, but are required to fill the space. It was partly to discourage such slot-filling that BuzzFeed did not focus on its home page when it first started, he said.
+Ben Smith, editor in chief of BuzzFeed, a news and entertainment site, said his rule for writing and reporting in a fragmented age is simple: __"no filler"__. News organizations that still publish a print edition, he said, have slots — physical holes on paper or virtual ones on a home page — that result in the publication of stories that are not necessarily the most interesting or timely, but are required to fill the space. It was partly to discourage such slot-filling that BuzzFeed did not focus on its home page when it first started, he said.
 
 The question that older publications that are not “digital natives” like BuzzFeed have to ask themselves, Mr. Kim said, is 
 
@@ -42,7 +46,7 @@ Our recent survey revealed social media doesn’t always facilitate conversation
 
 This higher level of engagement from direct visitors holds true across the full mix of sites studied.
 
-The strategy of Buzzfeed, for example, is very different from that of traditional news organizations. It is not built around building a loyal, returning audience. Instead, it is built around “being a part of the conversation”.
+The strategy of Buzzfeed, for example, is very different from that of traditional news organizations. It is not built around building a loyal, returning audience. Instead, it is built around "being a part of the conversation".
 
 For organizations producing news content, what may be most critical is how much they understand about these different audience pathways and the degree to which their strategies – both in terms of content and revenue – match their audience flow.
 
@@ -55,4 +59,6 @@ News consumers who arrive on sites by typing in URLs or by clicking on bookmarks
 A Fall 2012 report found that on a smartphone, 61% of mobile news users got news “mostly” from their mobile browsers vs. 28% “mostly” from apps.
 
 For the majority of sites studied here, visitors coming from Facebook were younger than visitors coming to the site directly or through search. This was true for both 18- to 24- year-olds and 25- to 34-year-olds.
+
+EDIT: The influence of social media in fiction journalism. [The Newsroom TV series against Twitter](http://grantland.com/hollywood-prospectus/the-six-lessons-of-the-internet-according-to-the-newsroom/).
 
