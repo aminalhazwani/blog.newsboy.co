@@ -7,7 +7,7 @@ summary:    "#guardiancoffee a brand new, caffeine-infused pop-up destination in
 
 Today I spent a morning at the [#guardiancoffee](http://www.boxpark.co.uk/brand/guardiancoffee/) a brand new, caffeine-infused pop-up destination in the heart of East London’s creative technology community. 
 
-![A picture of the #guardiancoffee](http://www.boxpark.co.uk/wp-content/uploads/2013/05/guardian-01.jpg)
+![A picture of the #guardiancoffee](/assets/guardian-coffee.jpg)
 
 The space is really welcoming and every table has its own tablet where you can read the latest news from the Guardian. 
 

@@ -11,7 +11,7 @@ This is statistically proved by [comScore](http://www.comscore.com/Insights/Pres
 
 That's why Wildcard was born. The aim is to develop a system of cards able to bring the benefits of the browser, like indexability of the content, to the world of applications. It makes good use of a native component, the Card, which is a well structure data that can direct users to a source app through deep-linking. For example an article card displays media content and allows a user to subscribe.
 
-![Wildcard examples](http://www.trywildcard.com/docassets/images/introduction-01-3758650b.jpg)
+![Wildcard examples](/assets/wildcard-showcase.jpg)
 
 By utilizing faster, mobile-first technology, Wildcard can create a more delightful user experiences, more successful business, and a better mobile internet.
 
