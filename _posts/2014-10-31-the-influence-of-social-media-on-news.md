@@ -17,11 +17,11 @@ A publication’s home page, said Edward Kim, a co-founder of SimpleReach, will 
 
 Always from the article, Ben Smith – editor in chief of BuzzFeed – a news and entertainment site, said his rule for writing and reporting in a fragmented age is simple: __"no filler"__. News organizations that still publish a print edition, he said, have slots — physical holes on paper or virtual ones on a home page — that result in the publication of stories that are not necessarily the most interesting or timely, but are required to fill the space. It was partly to discourage such slot-filling that BuzzFeed did not focus on its home page when it first started, he said.
 
-The question that older publications that are not “digital natives” like BuzzFeed have to ask themselves, Mr. Kim said, is 
+The question that older publications that are not “digital natives” like BuzzFeed have to ask themselves, Mr. Kim said, is: 
 
 > “Are you creating content for the way that content is consumed in this environment?”
 
-Ms. Haik, the Washington Post digital editor, said 
+Moreover Ms. Haik, the Washington Post digital editor, said: 
 
 > "We’re asking if there’s a different kind of storytelling, not just an ideal presentation". 
 

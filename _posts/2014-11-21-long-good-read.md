@@ -11,6 +11,8 @@ Many are the projects that target an audience angry for long reads. And apparent
 
 For example at The Guardian – the former developer [Dan Catt](http://revdancatt.com/) – developed an algorithm capable of collecting the most interesting stories every day. Once the robot finished its work an editor will review and select the most relevant ones. And finally the selected stories will be placed on a weekly newspaper proudly printed and delivered by the [Newspaper Club](http://www.newspaperclub.com/) every Monday at the [#guardiancoffee](http://www.boxpark.co.uk/brand/guardiancoffee/). That is the __Long Good Read__ project.
 
+![The Long Good Read](/assets/the-long-good-read.jpg)
+
 Another interesting project is [Longform.org](http://longform.org/). A website and an iOS application that recommends new and classic non-fiction from around the web. The stories are collected from the databases of saved articles in read-later services such us Instapaper, Readability and Pocket. Why? In the words of its co-founder:
 
 >"I think people are motivated by a desire to read incredible stories, when they want to and how they want to."
