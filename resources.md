@@ -13,7 +13,6 @@ permalink: /resources/
 
 
 #### Media-funding projects
-
 - [Journalism Grants](http://journalismgrants.org/): at a time when many media organisations face financial constraints, the grant programme aims to better enable media houses to go beyond their usual reporting approaches and thus set a new and distinctive agenda for development coverage.
 
 #### Newsgames
@@ -27,9 +26,20 @@ permalink: /resources/
 
 #### Worth to mention projects
 - [Syria Deeply](http://www.syriadeeply.org/) and [News Deeply](http://www.newsdeeply.com/)
-- [The Long Good Read](http://www.niemanlab.org/2013/12/the-guardian-experiments-with-a-robot-generated-newspaper-with-the-long-good-read/)
+- [About theGuardian Zeitgeist](http://www.theguardian.com/help/insideguardian/2010/feb/03/zeitgeist) and [Behind theGuardian Zeitgeist](http://www.theguardian.com/open-platform/blog/behind-the-curtains-of-zeitgeist)
 
-#### Extra
+#### Lonf form Journalism
+- [The Long Good Read](http://www.niemanlab.org/2013/12/the-guardian-experiments-with-a-robot-generated-newspaper-with-the-long-good-read/) and [the technology behind it](http://revdancatt.com/2010/11/10/introducing-the-long-good-read-for-when-people-want-longer-articles-to-read/)
+- [Long-form journalism on theGuardian](http://www.theguardian.com/media/2010/aug/30/long-form-journalism?view=mobile#opt-in-message)
+- [Longform.org](http://longform.org/): recommends new and classic non-fiction from around the web.
+- [The Feature](http://thefeature.net/): a hand-picked selection of the finest articles and essays saved with Instapaper.
+- [Theawl.com](http://www.theawl.com/about)
+- [The Media Blog - size does matter](http://themediablog.typepad.com/the-media-blog/2010/09/online-journalism-economics-0015140910.html)
+- [Good journalism will thrive, whatever the format](http://www.theguardian.com/technology/2010/sep/12/networker-naughton-internet-journalism)
+- [HTML5 product aims to mahe long-form journalism readable on any device](http://www.niemanlab.org/2010/10/center-for-public-integritys-html5-product-aims-to-make-long-form-journalism-readable-on-any-device/)
+
+#### Short read journalism
+- [Magazine Will Cater to Mobile Readers](http://www.nytimes.com/2010/08/11/business/media/11nomad.html)
 - [Micro content strategy](http://blog.visual.ly/micro-content-the-best-way-to-diversify-your-content-strategy/): promote your content with small but effective sneak peaks.
 
 #### Apps
@@ -42,3 +52,6 @@ permalink: /resources/
 
 #### People
 - [Dafna Shahaf](http://i.stanford.edu/~dshahaf/). Best known for her award-winning paper "Connecting the Dots Between News Articles". Now she is working on [Information Cartography](#) and [Metro Maps](#) in order to fight information overload.
+
+#### Social Media
+- The influence of social media in fiction journalism. [The Newsroom TV series against Twitter](http://grantland.com/hollywood-prospectus/the-six-lessons-of-the-internet-according-to-the-newsroom/).

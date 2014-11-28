@@ -23,3 +23,5 @@ Here some interesting points from the video:
 - "You left television to build a website"
 - Single subject news model
 - Journalists became entrepreneurs
+
+Something that I really appreciate about this project are the __single subject news model__ and the focus on __user experience__. Lara shows how you can do good journalism only focusing on one topic but giving the users the best overview possible. In a world full of information missing the big picture is pretty easy and being able to give it has its – more than evident – benefits.
