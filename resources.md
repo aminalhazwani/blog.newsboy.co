@@ -17,7 +17,7 @@ permalink: /resources/
 
 #### Newsgames
 - [Playing at Democracy: Tomas Rawllings at TEDxHousesofParliament](http://www.youtube.com/watch?v=lBHp5y-Idyk)
-- [Newsgamehack Tumblr](http://newsgameshack.tumblr.com/), [Newsgame geneator](http://newsgameshack.thegoodevil.com/#) and [Newsgame Hackaton](http://newsgames-hackathon.tumblr.com/).
+- [Newsgamehack Tumblr](http://newsgameshack.tumblr.com/), [Newsgame geneator](http://newsgameshack.thegoodevil.com/) and [Newsgame Hackaton](http://newsgames-hackathon.tumblr.com/).
 - [Gamethenews.net](http://gamethenews.net/). 
 - [The good evil game studio](http://thegoodevil.com/). Developing games with a purpose and playful experiences. 
 - [Buzzfeed building a games team](http://techcrunch.com/2014/08/29/buzzfeed-games-team/)
@@ -51,7 +51,29 @@ permalink: /resources/
 - [Medium](https://medium.com/)
 
 #### People
-- [Dafna Shahaf](http://i.stanford.edu/~dshahaf/). Best known for her award-winning paper "Connecting the Dots Between News Articles". Now she is working on [Information Cartography](#) and [Metro Maps](#) in order to fight information overload.
+- [Dafna Shahaf](http://i.stanford.edu/~dshahaf/): best known for her award-winning paper "Connecting the Dots Between News Articles". Now she is working on [Information Cartography](http://i.stanford.edu/~dshahaf/fp1097-shahaf.pdf) and [Metro Maps](http://i.stanford.edu/~dshahaf/kdd2012-shahaf-guestrin-horvitz.pdf) in order to fight information overload.
+- [David Carr](https://twitter.com/carr2n): he is the media columnist of the NYT.
+    -  [David Carr on the state of media: "The consumer is making out really well"](http://digiday.com/publishers/david-carr-state-media-consumer-making-really-well/)
+    -  [Glenn Greenwald on New Media](http://www.nytimes.com/video/business/100000003030031/glenn-greenwald-on-new-media.html)
+    -  [Evan Williams on Medium](http://www.nytimes.com/video/business/100000002899296/evan-williams-on-medium.html)
 
 #### Social Media
 - The influence of social media in fiction journalism. [The Newsroom TV series against Twitter](http://grantland.com/hollywood-prospectus/the-six-lessons-of-the-internet-according-to-the-newsroom/).
+
+#### Audience analysis
+[The future of audience analytics](http://www.rjionline.org/futures-lab-update/085-future-audience-analytics-metrics-data)
+[Q&A with Chartbeat CEO Tony Haile: What publishers should be measuring](http://www.rjionline.org/blog/qa-chartbeat-ceo-tony-haile-what-publishers-should-be-measuring)
+
+#### Analysis tools
+- [Parsely](https://parsely.com/)
+- [Chartbeat](https://chartbeat.com/)
+- [The New York Times Research & Development group](http://nytlabs.com/)
+- [Streamtools](http://nytlabs.github.io/streamtools/): a graphical toolkit for working with streams of data
+
+#### News Reading Personalisation
+- [The newsonomics of the newly quantified, gamified news reader](http://www.niemanlab.org/2014/12/the-newsonomics-of-the-newly-quantified-gamified-news-reader/)
+- [New York Times improves its recommendations engine](http://www.niemanlab.org/2013/08/new-york-times-improves-its-recommendations-engine/?relatedstory)
+
+#### Research
+[http://www.glistatigenerali.com/media/il-presente-e-caotico-ma-le-opportunita-per-giornalisti-saranno-sempre-di-piu/](http://www.glistatigenerali.com/media/il-presente-e-caotico-ma-le-opportunita-per-giornalisti-saranno-sempre-di-piu/)
+

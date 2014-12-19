@@ -13,7 +13,7 @@ As Ravi Somaia says in his article[^1] Facebook is increasingly becoming to the 
 
 Always Somaina state that just as the music industry has moved largely from selling albums to songs bought instantly online, publishers are increasingly reaching readers through individual pieces rather than complete editions of newspapers or magazines. And this is what Blendle is doing. The successful Dutch startup collects all newspapers and magazine from around Holland in one web app where readers can buy single articles without having to subscribe.
 
-A publication’s home page, said Edward Kim, a co-founder of SimpleReach, will soon be important more as an advertisement of its brand than as a destination for readers.
+A publication’s homepage, said Edward Kim, a co-founder of SimpleReach, will soon be important more as an advertisement of its brand than as a destination for readers (more on this topic on [qz.com](http://qz.com/209950/the-homepage-is-dead-and-the-social-web-has-won-even-at-the-new-york-times/)).
 
 Always from the article, Ben Smith – editor in chief of BuzzFeed – a news and entertainment site, said his rule for writing and reporting in a fragmented age is simple: __"no filler"__. News organizations that still publish a print edition, he said, have slots — physical holes on paper or virtual ones on a home page — that result in the publication of stories that are not necessarily the most interesting or timely, but are required to fill the space. It was partly to discourage such slot-filling that BuzzFeed did not focus on its home page when it first started, he said.
 
