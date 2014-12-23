@@ -15,6 +15,8 @@ Something worth to mention is the NPR commitment to sharing the source code of e
 
 Another interesting project is [Hollow](http://hollowdocumentary.com/). The interactive documentary Hollow created by Elaine McMillion is a perfect case to look at the current pros and cons of online storytelling. Unlike a traditional documentary where viewers turn the lights down, sit back and have a story unfold in front of their eyes, participants 'watching' Hollow must scroll and click through a detailed multi-storyline experience that revolves around McDowell County, West Virginia, a poster child region of all that is wrong in America — economic stagnation, dwindling population, high teenage pregnancy rate, staggering statistics on obesity and drug addiction. Despite the apparent hardships, there is a strong sense of community in the residents of McDowell County.[^1] Also Hollow was funded with a [Kickstarter campaign](https://www.kickstarter.com/projects/elainemcmillion/hollow-an-interactive-documentary). 
 
+![Hollow Documentary](/assets/hollow-documentary.png)
+
 There are many more projects that have gone in this direction. Long-form stories allow journalists, designers and developers to fully experiment with the content and to bring readers/watchers the most out of a single story or topic. 
 
 Here a short list of what I found:
