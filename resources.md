@@ -26,7 +26,7 @@ permalink: /resources/
 
 #### Worth to mention projects
 - [Syria Deeply](http://www.syriadeeply.org/) and [News Deeply](http://www.newsdeeply.com/)
-- [About theGuardian Zeitgeist](http://www.theguardian.com/help/insideguardian/2010/feb/03/zeitgeist) and [Behind theGuardian Zeitgeist](http://www.theguardian.com/open-platform/blog/behind-the-curtains-of-zeitgeist)
+- [About Guardian Zeitgeist](http://www.theguardian.com/help/insideguardian/2010/feb/03/zeitgeist) and [Behind Guardian Zeitgeist](http://www.theguardian.com/open-platform/blog/behind-the-curtains-of-zeitgeist)
 
 #### Lonf form Journalism
 - [The Long Good Read](http://www.niemanlab.org/2013/12/the-guardian-experiments-with-a-robot-generated-newspaper-with-the-long-good-read/) and [the technology behind it](http://revdancatt.com/2010/11/10/introducing-the-long-good-read-for-when-people-want-longer-articles-to-read/)
@@ -37,6 +37,7 @@ permalink: /resources/
 - [The Media Blog - size does matter](http://themediablog.typepad.com/the-media-blog/2010/09/online-journalism-economics-0015140910.html)
 - [Good journalism will thrive, whatever the format](http://www.theguardian.com/technology/2010/sep/12/networker-naughton-internet-journalism)
 - [HTML5 product aims to mahe long-form journalism readable on any device](http://www.niemanlab.org/2010/10/center-for-public-integritys-html5-product-aims-to-make-long-form-journalism-readable-on-any-device/)
+- [What the New York Times's 'Snow Fall' Means to Online Journalism's Future](http://www.thewire.com/technology/2012/12/new-york-times-snow-fall-feature/60219/)
 
 #### Short read journalism
 - [Magazine Will Cater to Mobile Readers](http://www.nytimes.com/2010/08/11/business/media/11nomad.html)
@@ -73,7 +74,4 @@ permalink: /resources/
 #### News Reading Personalisation
 - [The newsonomics of the newly quantified, gamified news reader](http://www.niemanlab.org/2014/12/the-newsonomics-of-the-newly-quantified-gamified-news-reader/)
 - [New York Times improves its recommendations engine](http://www.niemanlab.org/2013/08/new-york-times-improves-its-recommendations-engine/?relatedstory)
-
-#### Research
-[http://www.glistatigenerali.com/media/il-presente-e-caotico-ma-le-opportunita-per-giornalisti-saranno-sempre-di-piu/](http://www.glistatigenerali.com/media/il-presente-e-caotico-ma-le-opportunita-per-giornalisti-saranno-sempre-di-piu/)
 
