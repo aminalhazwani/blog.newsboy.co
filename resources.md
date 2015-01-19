@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Resources
 permalink: /resources/
 ---
 
@@ -62,8 +62,9 @@ permalink: /resources/
 - The influence of social media in fiction journalism. [The Newsroom TV series against Twitter](http://grantland.com/hollywood-prospectus/the-six-lessons-of-the-internet-according-to-the-newsroom/).
 
 #### Audience analysis
-[The future of audience analytics](http://www.rjionline.org/futures-lab-update/085-future-audience-analytics-metrics-data)
-[Q&A with Chartbeat CEO Tony Haile: What publishers should be measuring](http://www.rjionline.org/blog/qa-chartbeat-ceo-tony-haile-what-publishers-should-be-measuring)
+- [The future of audience analytics](http://www.rjionline.org/futures-lab-update/085-future-audience-analytics-metrics-data)
+- [Q&A with Chartbeat CEO Tony Haile: What publishers should be measuring](http://www.rjionline.org/blog/qa-chartbeat-ceo-tony-haile-what-publishers-should-be-measuring)
+- [Inside the NY Times' audience development strategy](http://digiday.com/publishers/inside-ny-times-audience-development-strategy/)
 
 #### Analysis tools
 - [Parsely](https://parsely.com/)
@@ -75,3 +76,6 @@ permalink: /resources/
 - [The newsonomics of the newly quantified, gamified news reader](http://www.niemanlab.org/2014/12/the-newsonomics-of-the-newly-quantified-gamified-news-reader/)
 - [New York Times improves its recommendations engine](http://www.niemanlab.org/2013/08/new-york-times-improves-its-recommendations-engine/?relatedstory)
 
+#### Interesting Articles
+- [No, BuzzFeed isn’t "beating" the New York Times](https://medium.com/@simonowens/no-buzzfeed-isnt-beating-the-new-york-times-97e68fdf6fa6)
+- [A Teenager’s View on Social Media: written by an actual teen](https://medium.com/backchannel/a-teenagers-view-on-social-media-1df945c09ac6)
