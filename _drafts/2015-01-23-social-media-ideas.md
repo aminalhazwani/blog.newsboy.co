@@ -1,10 +1,11 @@
 ---
 layout:     post
 title:      Social Media Ideas
-date:       2015-01-19
+date:       2015-01-23
 summary:    ... 
 ---
 
+Based on the News Gap Thesis, namely that users are not interested in public affairs but are more willing to read about 
 http://www.usatoday.com/story/tech/2014/10/30/tech-usa-today-yo-app/18136831/
 http://elections.npr.org/
 http://thehash.today/
