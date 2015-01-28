@@ -27,5 +27,5 @@ No matter what but content appears to be the king in digital age.[^11]
 [^7]: Boczkowski, P. J. and Mitchelstein E. 2013. _The News Gap_. The MIT Press.
 [^8]: Barabas, J., and J. Jerit. 2005. Surveillance Knowledge and the Mass Media. Paper presented at the meeting of American Political Science Association, Washington. 
 [^9]: Boczkowski, P. J. and Mitchelstein E. 2013. _The News Gap_. The MIT Press.
-[^10]: Baum, M. A. 2002 Sex, lies, and war. How soft news brings foreing policy to the inattentive public. _American Political Science Review_ 96 (1): 91-110.
+[^10]: Baum, M. A. 2002. Sex, lies, and war. How soft news brings foreing policy to the inattentive public. _American Political Science Review_ 96 (1): 91-110.
 [^11]: Boczkowski, P. J. and Mitchelstein E. 2013. _The News Gap_. The MIT Press.
