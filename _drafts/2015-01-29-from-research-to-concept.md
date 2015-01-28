@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The importance of promoting news content in an engaging way
-date:       2015-01-26
+date:       2015-01-29
 summary:    From my thesis research I developed a concept for a mobile application that aims at helping reporters create and promote small video teaser of their most valuable stories.
 ---
 
